@@ -1,5 +1,11 @@
 <template>
   <NuxtLayout name="default">
-    <h1 class="text-3xl font-bold underline">Hello world!</h1>
+    <section class="h-96 w-full bg-plainthing-100">
+      <div class="container">
+        <div class="flex">
+          
+        </div>
+      </div>
+    </section>
   </NuxtLayout>
 </template>
