@@ -18,7 +18,7 @@ module.exports = {
       current: 'currentColor',
       'plainthing': {
         100: '#100432',
-        200: '',
+        200: 'rgba(255, 255, 255, 0.62)',
         300: '',
         400: '',
         500: '',
