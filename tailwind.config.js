@@ -9,25 +9,30 @@ module.exports = {
     "./app.vue",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        transparent: 'transparent',
+        current: 'currentColor',
+        'plainthing': {
+          100: '#100432',
+          200: '#393D4E',
+          300: '#ECE3F5',
+          400: '#843DDD',
+          500: '',
+          600: '',
+          700: '',
+          800: '',
+          900: '',
+        },
+      },
+      fontFamily: {
+        adelia: ["GeneralSans", ],
+      },
+    },
     container: {
       center: true,
     },
-    colors: {
-      transparent: 'transparent',
-      current: 'currentColor',
-      'plainthing': {
-        100: '#100432',
-        200: 'rgba(255, 255, 255, 0.62)',
-        300: '',
-        400: '',
-        500: '',
-        600: '',
-        700: '',
-        800: '',
-        900: '',
-      },
-    },
+    
   },
   plugins: [],
 }

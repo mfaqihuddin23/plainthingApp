@@ -2,6 +2,35 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: "GeneralSans-Bold";
+  src: url("../fonts/GeneralSans-Bold.otf");
+}
+@font-face {
+  font-family: "GeneralSans-Extralight";
+  src: url("../fonts/GeneralSans-Extralight.otf");
+}
+@font-face {
+  font-family: "GeneralSans-Light";
+  src: url("../fonts/GeneralSans-Light.otf");
+}
+@font-face {
+  font-family: "GeneralSans-Medium";
+  src: url("../fonts/GeneralSans-Medium.otf");
+}
+@font-face {
+  font-family: "GeneralSans-Regular";
+  src: url("../fonts/GeneralSans-Regular.otf");
+}
+@font-face {
+  font-family: "GeneralSans-Semibold";
+  src: url("../fonts//GeneralSans-Semibold.otf");
+}
+
+body{
+  font-family: 'General Sans';
+  background-color: #F6F7FB;
+}
 .container{
   width: 95%;
   max-width: 1120px;

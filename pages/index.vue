@@ -1,6 +1,6 @@
 <template>
   <NuxtLayout name="default">
-    <section class="h-96 w-full bg-plainthing-100 py-20">
+    <section class="bg-plainthing-100 pt-20 pb-52">
       <div class="container">
         <div class="flex justify-between">
           <div class="logo-comp">
@@ -22,8 +22,54 @@
               </defs>
             </svg>
           </div>
-          <div class="proposal-number font-light text-sm capitalize text-plainthing-200">
+          <div class="proposal-number font-light text-sm capitalize text-white opacity-60">
             Proposal Number : pPR/001/06/2023
+          </div>
+        </div>
+        <div class="flex flex-col items-center">
+          <div class="text-center text-white text-[128px] font-semibold capitalize mb-9">Design Proposal</div>
+          <div class="text-center text-white opacity-60 text-2xl font-normal capitalize mb-4">For Web Design And Development Bank BCA DIGITAL</div>
+          <div class="flex flex-col py-[10px] px-4 bg-white/20 rounded-full mb-20">
+            <div class="text-center text-white text-xl font-medium capitalize">Prepared for : BCA Digital Team</div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="pb-36 ">
+      <div class="container">
+        <div class="aboutus -mt-52">
+          <div class="img-wrap rounded-3xl overflow-hidden mb-12">
+            <img src="../assets/images/img-proposal-placeholder.png" alt="">
+          </div>
+          <div class="text-justify text-plainthing-200 text-xl font-normal">Plainthing Studio is a digital agency company that focuses on graphic design, web design and development. We provide creative and innovative solutions by combining expertise in design, technology and digital strategy. Our team consists of talented professionals with extensive experience in the industry, and we believe that design plays an important role in communicating effective messages and impacting the user experience. Good collaboration with clients is our main focus, and we are committed to providing professional, efficient and timely services according to our clients' needs and vision.</div>
+        </div>
+        <div class="project-desc flex flex-col items-start mt-36">
+          <div class="py-1 px-8 bg-plainthing-300 rounded-full mb-3">
+            <div class="text-center text-plainthing-400 text-base font-semibold capitalize">Benefit</div>
+          </div>
+          <div class="relative mb-16">
+            <div class="absolute text-plainthing-200 text-[64px] font-semibold capitalize max-w-[472px]">Project description</div>
+            <div class="img-wrap">
+              <img src="../assets/images/img-illust-project-desc.png" alt="">
+            </div>
+          </div>
+          <div class="txt-wrap mb-16">
+            <div class="text-justify text-plainthing-200 txt-[32px] font-semibold mb-5">BCA Digital Web Design</div>
+            <div class="text-justify text-plainthing-200 text-xl font-normal">BCA Digital dan CekOmbak adalah sebuah perusahaan bank digital dari BCA Group . BCA Digital merupakan induk dan CekOmbak adalah end user app. Dikutip dari kontan.co.id, sasaran pasar yang dibidik BCA Digital akan berbeda dari bank BCA. Misalnya BCA yang fokus memberikan kredit ke segmen korporasi, Bank Royal kelak bakal menyasar segmen ritel, atau mass market. Oleh karena itu Plainthing Studio Yogyakarta siap membantu untuk mendesain website BCA Digital dan CekOmbak yang nantinya akan mengedepankan segment pasar yang dituju dan sesuai dengan requirement dari team BCA Digital.</div>
+          </div>
+          <div class="objective flex gap-11 items-center p-12 rounded-3xl bg-white shadow mb-12">
+            <div class="w-[499px] h-[343px] bg-gray-300 rounded-2xl max-w-[50%]"></div>
+            <div class="txt-wrap max-w-[485px]">
+              <div class="text-justify text-plainthing-200 text-[32px] font-semibold mb-5">Objective</div>
+              <div class="text-justify text-plainthing-200 text-xl font-normal">Kami memahami tujuan dari website BCA Digital dan CekOmbak namun pengetahuan kami belum begitu mendalam dan Tentu saja kami akan mempelajari lebih lanjut tentang BCA Digital dan CekOmbak. Website BCA Digital dan CekOmbak masing-masing nantinya akan memiliki total 7 halaman.</div>
+            </div>
+          </div>
+          <div class="objective flex gap-11 items-center p-12 rounded-3xl bg-white shadow">
+            <div class="w-[499px] h-[343px] bg-gray-300 rounded-2xl max-w-[50%]"></div>
+            <div class="txt-wrap max-w-[485px]">
+              <div class="text-justify text-plainthing-200 text-[32px] font-semibold mb-5">Goals</div>
+              <div class="text-justify text-plainthing-200 text-xl font-normal">Style gambar yang digunakan akan menggunakan style 3D dipadu dengan animasi yang cantik sehingga akan menarik perhatian kaum millenial yang menjadi target dari BCA digital. Agar illustrasi 3D yang dibuat sesuai dengan ekspektasi, maka plainthingstudio akan mengutamakan penguatan pada konsep yang dituangkan dalam gambar sketsa yang detail sehingga team BCA Digital dapat melihat dan memperkirakan hasil akhir dari rancangan tersebut.</div>
+            </div>
           </div>
         </div>
       </div>
