@@ -64,12 +64,171 @@
               <div class="text-justify text-plainthing-200 text-xl font-normal">Kami memahami tujuan dari website BCA Digital dan CekOmbak namun pengetahuan kami belum begitu mendalam dan Tentu saja kami akan mempelajari lebih lanjut tentang BCA Digital dan CekOmbak. Website BCA Digital dan CekOmbak masing-masing nantinya akan memiliki total 7 halaman.</div>
             </div>
           </div>
-          <div class="objective flex gap-11 items-center p-12 rounded-3xl bg-white shadow">
+          <div class="goals flex gap-11 items-center p-12 rounded-3xl bg-white shadow">
             <div class="w-[499px] h-[343px] bg-gray-300 rounded-2xl max-w-[50%]"></div>
             <div class="txt-wrap max-w-[485px]">
               <div class="text-justify text-plainthing-200 text-[32px] font-semibold mb-5">Goals</div>
               <div class="text-justify text-plainthing-200 text-xl font-normal">Style gambar yang digunakan akan menggunakan style 3D dipadu dengan animasi yang cantik sehingga akan menarik perhatian kaum millenial yang menjadi target dari BCA digital. Agar illustrasi 3D yang dibuat sesuai dengan ekspektasi, maka plainthingstudio akan mengutamakan penguatan pada konsep yang dituangkan dalam gambar sketsa yang detail sehingga team BCA Digital dapat melihat dan memperkirakan hasil akhir dari rancangan tersebut.</div>
             </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="bg-plainthing-100 pt-16 pb-32">
+      <div class="container">
+        <div class="process flex flex-col items-start">
+          <div class="px-8 py-1 bg-plainthing-500 rounded-3xl mb-2">
+            <div class="text-center text-pink-400 text-base font-semibold capitalize">Process</div>
+          </div>
+          <div class="text-slate-100 text-[64px] font-semibold capitalize mb-24">Project Timeline</div>
+          <div class="justify-start items-start gap-[85px] inline-flex mb-20">
+            <div class="flex-col justify-start items-start gap-5 inline-flex">
+                <div class="w-[76px] h-[76px] bg-zinc-300 rounded-full"></div>
+                <div class="flex-col justify-start items-start gap-2 flex">
+                    <div class="text-white text-[24px] font-semibold capitalize">First Draft</div>
+                    <div class="text-white text-[16px] font-light leading-relaxed">1 Days</div>
+                </div>
+            </div>
+            <div class="flex-col justify-start items-start gap-5 inline-flex">
+                <div class="w-[76px] h-[76px] bg-zinc-300 rounded-full"></div>
+                <div class="flex-col justify-start items-start gap-2 flex">
+                    <div class="text-white text-[24px] font-semibold capitalize">Hi fidility</div>
+                    <div class="text-white text-[16px] font-light leading-relaxed">3 Days</div>
+                </div>
+            </div>
+            <div class="flex-col justify-start items-start gap-5 inline-flex">
+                <div class="w-[76px] h-[76px] bg-zinc-300 rounded-full"></div>
+                <div class="flex-col justify-start items-start gap-2 flex">
+                    <div class="text-white text-[24px] font-semibold capitalize">Illustration</div>
+                    <div class="text-white text-[16px] font-light leading-relaxed">3 Days</div>
+                </div>
+            </div>
+            <div class="flex-col justify-start items-start gap-5 inline-flex">
+                <div class="w-[76px] h-[76px] bg-zinc-300 rounded-full"></div>
+                <div class="flex-col justify-start items-start gap-2 flex">
+                    <div class="text-white text-[24px] font-semibold capitalize">Animation</div>
+                    <div class="text-white text-[16px] font-light leading-relaxed">2 Days</div>
+                </div>
+            </div>
+            <div class="flex-col justify-start items-start gap-5 inline-flex">
+                <div class="w-[76px] h-[76px] bg-zinc-300 rounded-full"></div>
+                <div class="flex-col justify-start items-start gap-2 flex">
+                    <div class="text-white text-[24px] font-semibold capitalize">Prototyp</div>
+                    <div class="text-white text-[16px] font-light leading-relaxed">2 Days</div>
+                </div>
+            </div>
+            <div class="flex-col justify-start items-start gap-5 inline-flex">
+                <div class="w-[76px] h-[76px] bg-zinc-300 rounded-full"></div>
+                <div class="flex-col justify-start items-start gap-2 flex">
+                    <div class="text-white text-[24px] font-semibold capitalize">Develop</div>
+                    <div class="text-white text-[16px] font-light leading-relaxed">5 Days</div>
+                </div>
+            </div>
+          </div>
+          <div class="w-[625px] h-[63px] text-white text-[20px] font-normal leading-loose">The Time Line above does not include revisions, the number of days listed is the duration of the work.</div>
+        </div>
+      </div>
+    </section>
+    <section class="pt-40 pb-56">
+      <div class="container">
+        <div class="investment flex flex-col items-start">
+          <div class="max-w-[150px] px-[31px] py-1 bg-violet-100 rounded-[32px] justify-start items-start gap-2.5 inline-flex">
+            <div class="text-center text-violet-600 text-[16px] font-semibold capitalize">Investment</div>
+          </div>
+        </div>
+        <div class="flex mb-20">
+          <div class="txt-wrap">
+            <div class="w-[564px] text-gray-700 text-[64px] font-semibold capitalize leading-[120%]">Budget Breakdown</div>
+          </div>
+          <div class="flex flex-col justify-center max-w-[560px]">
+            <div class="text-justify text-gray-700 text-[20px] font-normal leading-loose">We attach the application of the budget for each phase and type of work. calculation the budget has not included the total costs because the scope of work is still unclear.</div>
+          </div>
+        </div>
+        <div class="table-wrap mb-32">
+          <table class="table-auto w-full">
+            <thead class=" border-b-2 border-stone-300">
+              <tr class="text-justify text-gray-700 text-2xl font-semibold uppercase leading-10">
+                <th class=" pb-5">QTY</th>
+                <th class=" pb-5">WEB DESIGN</th>
+                <th class=" pb-5">ITEM PRICE</th>
+                <th class=" text-right pb-5">TOTAL</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="text-neutral-500 text-xl font-medium leading-loose">
+                <td><div class="text-start pt-8">1</div></td>
+                <td><div class=" pt-8">Home Page</div></td>
+                <td><div class=" pt-8">$ 300.00</div></td>
+                <td><div class="text-right pt-8">$ 300.00</div></td>
+              </tr>
+              <tr class="text-neutral-500 text-xl font-medium leading-loose">
+                <td><div class="text-start pt-8">4</div></td>
+                <td><div class=" pt-8">Other Page</div></td>
+                <td><div class=" pt-8">$ 250.00</div></td>
+                <td><div class="text-right pt-8">$ 1000.00</div></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="table-wrap mb-32">
+          <table class="table-auto w-full">
+            <thead class=" border-b-2 border-stone-300">
+              <tr class="text-justify text-gray-700 text-2xl font-semibold uppercase leading-10">
+                <th class=" pb-5">QTY</th>
+                <th class=" pb-5">ILLUSTRATION</th>
+                <th class=" pb-5">ITEM PRICE</th>
+                <th class=" text-right pb-5">TOTAL</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="text-neutral-500 text-xl font-medium leading-loose">
+                <td><div class="text-start pt-8">1</div></td>
+                <td><div class=" pt-8">Home Page Illustration</div></td>
+                <td><div class=" pt-8">$ 150.00</div></td>
+                <td><div class="text-right pt-8">$ 150.00</div></td>
+              </tr>
+              <tr class="text-neutral-500 text-xl font-medium leading-loose">
+                <td><div class="text-start pt-8">5</div></td>
+                <td><div class=" pt-8">Section Illustration</div></td>
+                <td><div class=" pt-8">$ 75.00</div></td>
+                <td><div class="text-right pt-8">$ 375.00</div></td>
+              </tr>
+              <tr class="text-neutral-500 text-xl font-medium leading-loose">
+                <td><div class="text-start pt-8">12</div></td>
+                <td><div class=" pt-8">Icon</div></td>
+                <td><div class=" pt-8">$ 5.00</div></td>
+                <td><div class="text-right pt-8">$ 60.00</div></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="table-wrap mb-32">
+          <table class="table-auto w-full">
+            <thead class=" border-b-2 border-stone-300">
+              <tr class="text-justify text-gray-700 text-2xl font-semibold uppercase leading-10">
+                <th class=" pb-5">QTY</th>
+                <th class=" pb-5">DEVELOPMENT</th>
+                <th class=" pb-5">ITEM PRICE</th>
+                <th class=" text-right pb-5">TOTAL</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr class="text-neutral-500 text-xl font-medium leading-loose">
+                <td><div class="text-start pt-8">1</div></td>
+                <td><div class=" pt-8">Front End Development</div></td>
+                <td><div class=" pt-8">$ 600.00</div></td>
+                <td><div class="text-right pt-8">$ 600.00</div></td>
+              </tr>
+              
+            </tbody>
+          </table>
+        </div>
+        <div class="flex justify-end">
+          <div class="w-[200px] h-[58px] px-[33px] py-2.5 bg-pink-300 justify-start items-start gap-2.5 inline-flex">
+            <div class="text-right text-white text-[24px] font-semibold leading-10">TOTAL DUE</div>
+          </div>
+          <div class="w-[182px] h-[58px] px-[33px] py-2.5 bg-purple-700 justify-start items-start gap-2.5 inline-flex">
+            <div class="text-right text-white text-[24px] font-semibold leading-10">$ 2485.00</div>
           </div>
         </div>
       </div>
