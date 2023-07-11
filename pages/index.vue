@@ -168,16 +168,12 @@
                 <td><div class="text-right pt-8">$ 1000.00</div></td>
               </tr>
             </tbody>
-          </table>
-        </div>
-        <div class="table-wrap mb-32">
-          <table class="table-auto w-full">
             <thead class=" border-b-2 border-stone-300">
               <tr class="text-justify text-gray-700 text-2xl font-semibold uppercase leading-10">
-                <th class=" pb-5">QTY</th>
-                <th class=" pb-5">ILLUSTRATION</th>
-                <th class=" pb-5">ITEM PRICE</th>
-                <th class=" text-right pb-5">TOTAL</th>
+                <th class=" pb-5 pt-32">QTY</th>
+                <th class=" pb-5 pt-32">ILLUSTRATION</th>
+                <th class=" pb-5 pt-32">ITEM PRICE</th>
+                <th class=" text-right pb-5 pt-32">TOTAL</th>
               </tr>
             </thead>
             <tbody>
@@ -200,16 +196,12 @@
                 <td><div class="text-right pt-8">$ 60.00</div></td>
               </tr>
             </tbody>
-          </table>
-        </div>
-        <div class="table-wrap mb-32">
-          <table class="table-auto w-full">
             <thead class=" border-b-2 border-stone-300">
               <tr class="text-justify text-gray-700 text-2xl font-semibold uppercase leading-10">
-                <th class=" pb-5">QTY</th>
-                <th class=" pb-5">DEVELOPMENT</th>
-                <th class=" pb-5">ITEM PRICE</th>
-                <th class=" text-right pb-5">TOTAL</th>
+                <th class=" pb-5 pt-32">QTY</th>
+                <th class=" pb-5 pt-32">DEVELOPMENT</th>
+                <th class=" pb-5 pt-32">ITEM PRICE</th>
+                <th class=" text-right pb-5 pt-32">TOTAL</th>
               </tr>
             </thead>
             <tbody>
@@ -219,16 +211,123 @@
                 <td><div class=" pt-8">$ 600.00</div></td>
                 <td><div class="text-right pt-8">$ 600.00</div></td>
               </tr>
-              
             </tbody>
           </table>
         </div>
-        <div class="flex justify-end">
+        
+        <div class="flex justify-end mb-20">
           <div class="w-[200px] h-[58px] px-[33px] py-2.5 bg-pink-300 justify-start items-start gap-2.5 inline-flex">
             <div class="text-right text-white text-[24px] font-semibold leading-10">TOTAL DUE</div>
           </div>
           <div class="w-[182px] h-[58px] px-[33px] py-2.5 bg-purple-700 justify-start items-start gap-2.5 inline-flex">
             <div class="text-right text-white text-[24px] font-semibold leading-10">$ 2485.00</div>
+          </div>
+        </div>
+        <div class="txt-wrap mb-14">
+          <div class="text-gray-700 text-[40px] font-semibold capitalize mb-7">Term & Conditions</div>
+          <div class="w-[560px] h-[170px] text-justify text-gray-700 text-[20px] font-normal leading-loose">Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequ Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur ma</div>
+        </div>
+        <div class="txt-wrap">
+          <div class="text-gray-700 text-[40px] font-semibold capitalize mb-7">Payment Info</div>
+          <div class="w-[560px] h-[170px] text-justify"><span class="text-gray-700 text-[20px] font-normal leading-loose">Payment is made in 2 terms.<br/>term 1  : </span><span class="text-purple-700 text-[20px] font-semibold leading-loose">50%.<br/></span><span class="text-gray-700 text-[20px] font-normal leading-loose" >term 2  : </span><span class="text-purple-700 text-[20px] font-semibold leading-loose">50%</span></div>
+        </div>
+      </div>
+    </section>
+    <section class="bg-plainthing-100 pt-20 pb-32">
+      <div class="container">
+        <div class="w-[118px] h-[30px] px-[31px] py-1 bg-indigo-950 rounded-[32px] justify-start items-start gap-2.5 inline-flex mb-2">
+          <div class="text-center text-pink-400 text-[16px] font-semibold capitalize">benefit</div>
+        </div>
+        <div class="txt-wrap mb-16">
+          <div class="w-[912px] text-white text-[64px] font-semibold capitalize leading-[120%]">The reasons why you should choose us to collaborate.</div>
+        </div>
+        <div class="flex justify-between">
+          <div class="flex flex-col">
+            <div class="w-[76px] h-[76px] bg-zinc-300 rounded-full mb-5"></div>
+            <div class="text-white text-[24px] font-bold capitalize mb-2">Unlimited revision</div>
+            <div class="w-[296px] text-white text-[16px] font-normal leading-relaxed">Lorem Ipsum dolur sit a maet Lorem Ipsum dolur sit a</div>
+          </div>
+          <div class="flex flex-col">
+            <div class="w-[76px] h-[76px] bg-zinc-300 rounded-full mb-5"></div>
+            <div class="text-white text-[24px] font-bold capitalize mb-2">Unlimited revision</div>
+            <div class="w-[296px] text-white text-[16px] font-normal leading-relaxed">Lorem Ipsum dolur sit a maet Lorem Ipsum dolur sit a</div>
+          </div>
+          <div class="flex flex-col">
+            <div class="w-[76px] h-[76px] bg-zinc-300 rounded-full mb-5"></div>
+            <div class="text-white text-[24px] font-bold capitalize mb-2">Unlimited revision</div>
+            <div class="w-[296px] text-white text-[16px] font-normal leading-relaxed">Lorem Ipsum dolur sit a maet Lorem Ipsum dolur sit a</div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class=" pt-28 pb-48 bg-white">
+      <div class="container">
+        <div class="w-[167px] h-[30px] px-[31px] py-1 bg-violet-100 rounded-[32px] justify-start items-start gap-2.5 inline-flex mb-3">
+          <div class="text-center text-violet-600 text-[16px] font-semibold capitalize">Very talented </div>
+        </div>
+        <div class="txt-wrap mb-24">
+          <div class="text-gray-700 text-[64px] font-semibold capitalize leading-[120%] mb-5">Team Responsibilities</div>
+          <div class="w-[518px] text-gray-700 text-[20px] font-normal leading-[160%]">We have a team that is ready to be dedicated to the maximum to get the best results</div>
+        </div>
+        <div class="grid grid-cols-3 gap-y-16">
+          <div class="flex flex-col">
+            <div class="w-[76px] h-[76px] bg-zinc-300 rounded-full mb-5"></div>
+            <div class="text-gray-700 text-[24px] font-semibold capitalize mb-4">Project Manager</div>
+            <div class="w-[296px] text-black text-[16px] font-normal leading-relaxed">Lorem Ipsum dolur sit a maet Lorem Ipsum dolur sit a</div>
+          </div>
+          <div class="flex flex-col">
+            <div class="w-[76px] h-[76px] bg-zinc-300 rounded-full mb-5"></div>
+            <div class="text-gray-700 text-[24px] font-semibold capitalize mb-4">Art Director</div>
+            <div class="w-[296px] text-black text-[16px] font-normal leading-relaxed">Lorem Ipsum dolur sit a maet Lorem Ipsum dolur sit a</div>
+          </div>
+          <div class="flex flex-col">
+            <div class="w-[76px] h-[76px] bg-zinc-300 rounded-full mb-5"></div>
+            <div class="text-gray-700 text-[24px] font-semibold capitalize mb-4">UIUX Designer</div>
+            <div class="w-[296px] text-black text-[16px] font-normal leading-relaxed">Lorem Ipsum dolur sit a maet Lorem Ipsum dolur sit a</div>
+          </div>
+          <div class="flex flex-col">
+            <div class="w-[76px] h-[76px] bg-zinc-300 rounded-full mb-5"></div>
+            <div class="text-gray-700 text-[24px] font-semibold capitalize mb-4">Illustrator</div>
+            <div class="w-[296px] text-black text-[16px] font-normal leading-relaxed">Lorem Ipsum dolur sit a maet Lorem Ipsum dolur sit a</div>
+          </div>
+          <div class="flex flex-col">
+            <div class="w-[76px] h-[76px] bg-zinc-300 rounded-full mb-5"></div>
+            <div class="text-gray-700 text-[24px] font-semibold capitalize mb-4">Developer</div>
+            <div class="w-[296px] text-black text-[16px] font-normal leading-relaxed">Lorem Ipsum dolur sit a maet Lorem Ipsum dolur sit a</div>
+          </div>
+          <div class="flex flex-col">
+            <div class="w-[76px] h-[76px] bg-zinc-300 rounded-full mb-5"></div>
+            <div class="text-gray-700 text-[24px] font-semibold capitalize mb-4">Animator</div>
+            <div class="w-[296px] text-black text-[16px] font-normal leading-relaxed">Lorem Ipsum dolur sit a maet Lorem Ipsum dolur sit a</div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="py-32 ">
+      <div class="container">
+        <div class="flex flex-col">
+          <div class="max-w-[143px] px-[31px] py-1 bg-violet-100 rounded-[32px] justify-start items-start gap-2.5 inline-flex mb-4">
+            <div class="text-center text-violet-600 text-base font-semibold capitalize">Best Team</div>
+          </div>
+          <div class="flex justify-between">
+            <div class="w-[634px] text-gray-700 text-[64px] font-semibold capitalize leading-[76.80px]">The right Studio, For the Best Result</div>
+            <div class="flex items-center">
+              <div class="img-wrap mr-8">
+                <img class="w-[111px] h-[111px] rounded-[97.12px]" src="../assets/images/img-logo-plainthing.png" />
+              </div>
+              <div class="w-[222px] h-[111px] flex-col justify-start items-start gap-[15px] inline-flex">
+                <div class="text-center text-gray-700 text-2xl font-semibold capitalize">Plainthing Studio</div>
+                <div class="w-[222px]"><span style="text-pink-500 text-xl font-light leading-loose">Dribbble</span><span style="text-black text-xl font-light leading-loose"> Top 10 Design Studios in the World</span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="grid">
+          <div class="flex flex-col">
+            <div class="w-[140.06px] h-[140.06px] relative bg-indigo-500 rounded-[70.03px]">
+                <img class="w-[202.66px] h-[145.66px] left-[145.66px] top-[-16.81px] absolute origin-top-left rotate-90" src="https://via.placeholder.com/203x146" />
+                <img class="w-[165.52px] h-[240.91px] left-[-13.33px] top-[10.36px] absolute origin-top-left rotate-[-1.40deg]" src="https://via.placeholder.com/166x241" />
+            </div>
           </div>
         </div>
       </div>
