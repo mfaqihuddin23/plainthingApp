@@ -495,10 +495,45 @@
       </div>
     </section>
     <section class="parallax bg-white pt-80 pb-40">
-      <div class="container"></div>
+      <div class="container">
+        <div class="flex flex-col items-center mb-[952px]">
+          <div class="text-wrap mb-8">
+            <div class="w-[910px] text-center text-gray-700 text-[64px] font-semibold capitalize leading-[76.80px]">we have helped hundreds</div>
+            <div class="w-[910px] text-center text-fuchsia-400 text-[64px] font-semibold capitalize leading-[76.80px]">of clients to find solutions</div>
+            <div class="w-[910px] text-center text-gray-700 text-[64px] font-semibold capitalize leading-[76.80px]">for their companies</div>
+          </div>
+          <div class="btn-wrap">
+            <div class="w-[194px] h-[60px] px-[31px] py-[19px] bg-violet-600 rounded-[50px] justify-center items-center gap-2.5 inline-flex">
+              <div class="text-center text-white text-base font-semibold capitalize">See Our Portfolio</div>
+            </div>
+          </div>
+        </div>
+        <div class=" bg-slate-900 rounded-[40px]">
+          <div class="flex gap-14 py-9 px-10 items-center">
+            <div class="w-[317px] h-[420px] bg-zinc-300 rounded-xl"></div>
+            <div class="flex flex-col">
+              <div class="w-[196px] h-[30px] px-[31px] py-1 bg-indigo-950 rounded-[32px] justify-start items-start gap-2.5 inline-flex mb-5">
+                <div class="text-center text-pink-400 text-base font-semibold capitalize">Retainer Package</div>
+              </div>
+              <div class="w-[646px] text-white text-[40px] font-semibold capitalize mb-6">Want to collaborate with Retainer plan?</div>
+              <div class="w-[609px] h-[63px] text-white text-xl font-normal leading-loose mb-10">Imagine you have a design team to assist every your design needs, but you just need to pay for one person</div>
+              <div class="w-[194px] h-[60px] px-[31px] py-[19px] bg-violet-600 rounded-[50px] justify-center items-center gap-2.5 inline-flex">
+                <div class="text-center text-white text-base font-semibold capitalize">See Our Portfolio</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </section>
     <section class="footer py-24">
-      <div class="container"></div>
+      <div class="container">
+        <div class="flex justify-between">
+          <div class="flex flex-col">
+            <img class="w-[172px] h-[39px]" src="https://via.placeholder.com/172x39" />
+            
+          </div>
+        </div>
+      </div>
     </section>
   </NuxtLayout>
 </template>
