@@ -1,4 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
+
+import eslintPlugin from "vite-plugin-eslint";
+
 export default defineNuxtConfig({
   app:{
     head:{
@@ -16,5 +19,8 @@ export default defineNuxtConfig({
       tailwindcss: {},
       autoprefixer: {},
     },
+  },
+  vite: {
+    plugins: [eslintPlugin()],
   },
 })
