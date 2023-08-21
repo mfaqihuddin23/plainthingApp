@@ -39,7 +39,7 @@
       <div class="container">
         <div class="aboutus -mt-52">
           <div class="img-wrap rounded-3xl overflow-hidden mb-12">
-            <img src="../assets/images/img-proposal-placeholder.png" alt="">
+            <img src="~/assets/images/img-proposal-placeholder.png" alt="">
           </div>
           <div class="text-justify text-plainthing-200 text-xl font-normal">Plainthing Studio is a digital agency company that focuses on graphic design, web design and development. We provide creative and innovative solutions by combining expertise in design, technology and digital strategy. Our team consists of talented professionals with extensive experience in the industry, and we believe that design plays an important role in communicating effective messages and impacting the user experience. Good collaboration with clients is our main focus, and we are committed to providing professional, efficient and timely services according to our clients' needs and vision.</div>
         </div>
@@ -50,7 +50,7 @@
           <div class="relative mb-16">
             <div class="absolute text-plainthing-200 text-[64px] font-semibold capitalize max-w-[472px]">Project description</div>
             <div class="img-wrap">
-              <img src="../assets/images/img-illust-project-desc.png" alt="">
+              <img src="~/assets/images/img-illust-project-desc.png" alt="">
             </div>
           </div>
           <div class="txt-wrap mb-16">
@@ -313,7 +313,7 @@
             <div class="w-[634px] text-gray-700 text-[64px] font-semibold capitalize leading-[76.80px]">The right Studio, For the Best Result</div>
             <div class="flex items-center">
               <div class="img-wrap mr-8">
-                <img class="w-[111px] h-[111px] rounded-[97.12px]" src="../assets/images/img-logo-plainthing.png" />
+                <img class="w-[111px] h-[111px] rounded-[97.12px]" src="~/assets/images/img-logo-plainthing.png" />
               </div>
               <div class="w-[222px] h-[111px] flex-col justify-start items-start gap-[15px] inline-flex">
                 <div class="text-center text-gray-700 text-2xl font-semibold capitalize">Plainthing Studio</div>
@@ -325,168 +325,168 @@
         <div class="grid grid-cols-6 gap-6">
           <div class="flex flex-col items-center">
             <div class="img-wrap max-w-[140.06px] bg-indigo-500 rounded-full mb-5">
-              <img class="" src="../assets/images/img-profil-permadi.png" />
+              <img class="" src="~/assets/images/img-profil-permadi.png" />
             </div>
             <div class="text-center text-black text-base font-medium leading-relaxed">Permadi</div>
             <div class="text-center text-gray-700 text-sm font-normal leading-snug">Co Founder</div>
           </div>
           <div class="flex flex-col items-center">
             <div class="img-wrap max-w-[140.06px] bg-indigo-500 rounded-full mb-5">
-              <img class="" src="../assets/images/img-profil-permadi.png" />
+              <img class="" src="~/assets/images/img-profil-permadi.png" />
             </div>
             <div class="text-center text-black text-base font-medium leading-relaxed">Permadi</div>
             <div class="text-center text-gray-700 text-sm font-normal leading-snug">Co Founder</div>
           </div>
           <div class="flex flex-col items-center">
             <div class="img-wrap max-w-[140.06px] bg-indigo-500 rounded-full mb-5">
-              <img class="" src="../assets/images/img-profil-permadi.png" />
+              <img class="" src="~/assets/images/img-profil-permadi.png" />
             </div>
             <div class="text-center text-black text-base font-medium leading-relaxed">Permadi</div>
             <div class="text-center text-gray-700 text-sm font-normal leading-snug">Co Founder</div>
           </div>
           <div class="flex flex-col items-center">
             <div class="img-wrap max-w-[140.06px] bg-indigo-500 rounded-full mb-5">
-              <img class="" src="../assets/images/img-profil-permadi.png" />
+              <img class="" src="~/assets/images/img-profil-permadi.png" />
             </div>
             <div class="text-center text-black text-base font-medium leading-relaxed">Permadi</div>
             <div class="text-center text-gray-700 text-sm font-normal leading-snug">Co Founder</div>
           </div>
           <div class="flex flex-col items-center">
             <div class="img-wrap max-w-[140.06px] bg-indigo-500 rounded-full mb-5">
-              <img class="" src="../assets/images/img-profil-permadi.png" />
+              <img class="" src="~/assets/images/img-profil-permadi.png" />
             </div>
             <div class="text-center text-black text-base font-medium leading-relaxed">Permadi</div>
             <div class="text-center text-gray-700 text-sm font-normal leading-snug">Co Founder</div>
           </div>
           <div class="flex flex-col items-center">
             <div class="img-wrap max-w-[140.06px] bg-indigo-500 rounded-full mb-5">
-              <img class="" src="../assets/images/img-profil-permadi.png" />
+              <img class="" src="~/assets/images/img-profil-permadi.png" />
             </div>
             <div class="text-center text-black text-base font-medium leading-relaxed">Permadi</div>
             <div class="text-center text-gray-700 text-sm font-normal leading-snug">Co Founder</div>
           </div>
           <div class="flex flex-col items-center">
             <div class="img-wrap max-w-[140.06px] bg-indigo-500 rounded-full mb-5">
-              <img class="" src="../assets/images/img-profil-permadi.png" />
+              <img class="" src="~/assets/images/img-profil-permadi.png" />
             </div>
             <div class="text-center text-black text-base font-medium leading-relaxed">Permadi</div>
             <div class="text-center text-gray-700 text-sm font-normal leading-snug">Co Founder</div>
           </div>
           <div class="flex flex-col items-center">
             <div class="img-wrap max-w-[140.06px] bg-indigo-500 rounded-full mb-5">
-              <img class="" src="../assets/images/img-profil-permadi.png" />
+              <img class="" src="~/assets/images/img-profil-permadi.png" />
             </div>
             <div class="text-center text-black text-base font-medium leading-relaxed">Permadi</div>
             <div class="text-center text-gray-700 text-sm font-normal leading-snug">Co Founder</div>
           </div>
           <div class="flex flex-col items-center">
             <div class="img-wrap max-w-[140.06px] bg-indigo-500 rounded-full mb-5">
-              <img class="" src="../assets/images/img-profil-permadi.png" />
+              <img class="" src="~/assets/images/img-profil-permadi.png" />
             </div>
             <div class="text-center text-black text-base font-medium leading-relaxed">Permadi</div>
             <div class="text-center text-gray-700 text-sm font-normal leading-snug">Co Founder</div>
           </div>
           <div class="flex flex-col items-center">
             <div class="img-wrap max-w-[140.06px] bg-indigo-500 rounded-full mb-5">
-              <img class="" src="../assets/images/img-profil-permadi.png" />
+              <img class="" src="~/assets/images/img-profil-permadi.png" />
             </div>
             <div class="text-center text-black text-base font-medium leading-relaxed">Permadi</div>
             <div class="text-center text-gray-700 text-sm font-normal leading-snug">Co Founder</div>
           </div>
           <div class="flex flex-col items-center">
             <div class="img-wrap max-w-[140.06px] bg-indigo-500 rounded-full mb-5">
-              <img class="" src="../assets/images/img-profil-permadi.png" />
+              <img class="" src="~/assets/images/img-profil-permadi.png" />
             </div>
             <div class="text-center text-black text-base font-medium leading-relaxed">Permadi</div>
             <div class="text-center text-gray-700 text-sm font-normal leading-snug">Co Founder</div>
           </div>
           <div class="flex flex-col items-center">
             <div class="img-wrap max-w-[140.06px] bg-indigo-500 rounded-full mb-5">
-              <img class="" src="../assets/images/img-profil-permadi.png" />
+              <img class="" src="~/assets/images/img-profil-permadi.png" />
             </div>
             <div class="text-center text-black text-base font-medium leading-relaxed">Permadi</div>
             <div class="text-center text-gray-700 text-sm font-normal leading-snug">Co Founder</div>
           </div>
           <div class="flex flex-col items-center">
             <div class="img-wrap max-w-[140.06px] bg-indigo-500 rounded-full mb-5">
-              <img class="" src="../assets/images/img-profil-permadi.png" />
+              <img class="" src="~/assets/images/img-profil-permadi.png" />
             </div>
             <div class="text-center text-black text-base font-medium leading-relaxed">Permadi</div>
             <div class="text-center text-gray-700 text-sm font-normal leading-snug">Co Founder</div>
           </div>
           <div class="flex flex-col items-center">
             <div class="img-wrap max-w-[140.06px] bg-indigo-500 rounded-full mb-5">
-              <img class="" src="../assets/images/img-profil-permadi.png" />
+              <img class="" src="~/assets/images/img-profil-permadi.png" />
             </div>
             <div class="text-center text-black text-base font-medium leading-relaxed">Permadi</div>
             <div class="text-center text-gray-700 text-sm font-normal leading-snug">Co Founder</div>
           </div>
           <div class="flex flex-col items-center">
             <div class="img-wrap max-w-[140.06px] bg-indigo-500 rounded-full mb-5">
-              <img class="" src="../assets/images/img-profil-permadi.png" />
+              <img class="" src="~/assets/images/img-profil-permadi.png" />
             </div>
             <div class="text-center text-black text-base font-medium leading-relaxed">Permadi</div>
             <div class="text-center text-gray-700 text-sm font-normal leading-snug">Co Founder</div>
           </div>
           <div class="flex flex-col items-center">
             <div class="img-wrap max-w-[140.06px] bg-indigo-500 rounded-full mb-5">
-              <img class="" src="../assets/images/img-profil-permadi.png" />
+              <img class="" src="~/assets/images/img-profil-permadi.png" />
             </div>
             <div class="text-center text-black text-base font-medium leading-relaxed">Permadi</div>
             <div class="text-center text-gray-700 text-sm font-normal leading-snug">Co Founder</div>
           </div>
           <div class="flex flex-col items-center">
             <div class="img-wrap max-w-[140.06px] bg-indigo-500 rounded-full mb-5">
-              <img class="" src="../assets/images/img-profil-permadi.png" />
+              <img class="" src="~/assets/images/img-profil-permadi.png" />
             </div>
             <div class="text-center text-black text-base font-medium leading-relaxed">Permadi</div>
             <div class="text-center text-gray-700 text-sm font-normal leading-snug">Co Founder</div>
           </div>
           <div class="flex flex-col items-center">
             <div class="img-wrap max-w-[140.06px] bg-indigo-500 rounded-full mb-5">
-              <img class="" src="../assets/images/img-profil-permadi.png" />
+              <img class="" src="~/assets/images/img-profil-permadi.png" />
             </div>
             <div class="text-center text-black text-base font-medium leading-relaxed">Permadi</div>
             <div class="text-center text-gray-700 text-sm font-normal leading-snug">Co Founder</div>
           </div>
           <div class="flex flex-col items-center">
             <div class="img-wrap max-w-[140.06px] bg-indigo-500 rounded-full mb-5">
-              <img class="" src="../assets/images/img-profil-permadi.png" />
+              <img class="" src="~/assets/images/img-profil-permadi.png" />
             </div>
             <div class="text-center text-black text-base font-medium leading-relaxed">Permadi</div>
             <div class="text-center text-gray-700 text-sm font-normal leading-snug">Co Founder</div>
           </div>
           <div class="flex flex-col items-center">
             <div class="img-wrap max-w-[140.06px] bg-indigo-500 rounded-full mb-5">
-              <img class="" src="../assets/images/img-profil-permadi.png" />
+              <img class="" src="~/assets/images/img-profil-permadi.png" />
             </div>
             <div class="text-center text-black text-base font-medium leading-relaxed">Permadi</div>
             <div class="text-center text-gray-700 text-sm font-normal leading-snug">Co Founder</div>
           </div>
           <div class="flex flex-col items-center">
             <div class="img-wrap max-w-[140.06px] bg-indigo-500 rounded-full mb-5">
-              <img class="" src="../assets/images/img-profil-permadi.png" />
+              <img class="" src="~/assets/images/img-profil-permadi.png" />
             </div>
             <div class="text-center text-black text-base font-medium leading-relaxed">Permadi</div>
             <div class="text-center text-gray-700 text-sm font-normal leading-snug">Co Founder</div>
           </div>
           <div class="flex flex-col items-center">
             <div class="img-wrap max-w-[140.06px] bg-indigo-500 rounded-full mb-5">
-              <img class="" src="../assets/images/img-profil-permadi.png" />
+              <img class="" src="~/assets/images/img-profil-permadi.png" />
             </div>
             <div class="text-center text-black text-base font-medium leading-relaxed">Permadi</div>
             <div class="text-center text-gray-700 text-sm font-normal leading-snug">Co Founder</div>
           </div>
           <div class="flex flex-col items-center">
             <div class="img-wrap max-w-[140.06px] bg-indigo-500 rounded-full mb-5">
-              <img class="" src="../assets/images/img-profil-permadi.png" />
+              <img class="" src="~/assets/images/img-profil-permadi.png" />
             </div>
             <div class="text-center text-black text-base font-medium leading-relaxed">Permadi</div>
             <div class="text-center text-gray-700 text-sm font-normal leading-snug">Co Founder</div>
           </div>
           <div class="flex flex-col items-center opacity-0">
             <div class="img-wrap max-w-[140.06px] bg-indigo-500 rounded-full mb-5">
-              <img class="" src="../assets/images/img-profil-permadi.png" />
+              <img class="" src="~/assets/images/img-profil-permadi.png" />
             </div>
             <div class="text-center text-black text-base font-medium leading-relaxed">Permadi</div>
             <div class="text-center text-gray-700 text-sm font-normal leading-snug">Co Founder</div>

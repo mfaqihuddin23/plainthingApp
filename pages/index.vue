@@ -26,7 +26,6 @@ const { data } = await useFetch('/api/users.post')
               </linearGradient>
               </defs>
             </svg>
-
           </div>
           <div class="bg-zinc-200 h-[1px] w-full my-12"></div>
           <div class=" flex-col justify-start items-start gap-3 inline-flex tab">
@@ -194,7 +193,7 @@ const { data } = await useFetch('/api/users.post')
                       </div>
                     </div>
                     <select id="category" class="bg-transparent px-6 py-2.5 rounded-xl border border-neutral-300 text-slate-900 text-base font-normal leading-relaxed">
-                      <option >Select category</option>
+                      <!-- <option >Select category</option> -->
                       <option value="TV">TV/Monitors</option>
                       <option value="PC">PC</option>
                       <option value="GA">Gaming/Console</option>
@@ -370,12 +369,12 @@ const { data } = await useFetch('/api/users.post')
           </div>
           </div>
 
-          <div id="document" class="tabcontent">
+          <div id="document" class="tabcontent hidden">
             <h3>Paris</h3>
             <p>Paris is the capital of France.</p> 
           </div>
 
-          <div id="archived" class="tabcontent">
+          <div id="archived" class="tabcontent hidden">
             <h3>Tokyo</h3>
             <p>Tokyo is the capital of Japan.</p>
           </div>
