@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <NuxtLayout>
     <section class="bg-plainthing-100 pt-20 pb-52">
       <div class="container">
@@ -536,4 +536,4 @@
       </div>
     </section>
   </NuxtLayout>
-</template>
+</template> -->
